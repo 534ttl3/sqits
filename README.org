@@ -1,0 +1,2 @@
+* Quantum simulation notebooks
+Some notebooks from a short course on quantum simulation and introduction to error-correction using [[https://github.com/Qiskit][Qiskit]].
